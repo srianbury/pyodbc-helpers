@@ -1,3 +1,6 @@
 __pycache__
 venv/
 .env
+build/
+dist/
+pyodbc_helpers.egg-info/
